@@ -2,7 +2,6 @@ package com.code.pattern.bridge;
 
 public class Computer {
     protected Brand brand;
-
     public Computer(Brand brand) {
         this.brand = brand;
     }
